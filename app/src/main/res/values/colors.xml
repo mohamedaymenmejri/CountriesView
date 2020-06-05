@@ -3,4 +3,9 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="blue_app">#072B8B</color>
+    <color name="border_color">#E3EAF2</color>
+    <color name="error_color">#FC0B0B</color>
+    <color name="hint_color">#9FA5BB</color>
 </resources>

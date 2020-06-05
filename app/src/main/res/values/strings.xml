@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CountriesExample</string>
+    <string name="search_countries">Rechercher Pays</string>
 </resources>
