@@ -1,0 +1,3 @@
+rootProject.name='CountriesExample'
+include ':app'
+include ':countriesview'
